@@ -1,4 +1,6 @@
 I don't know who I am where I am, all I know is I must code.
+Good with computers but not coding
+
 
 
 <!---
